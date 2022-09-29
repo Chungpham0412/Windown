@@ -1,6 +1,8 @@
 # Cách Active Windown
   slmgr /ipk [key] 
+  
   slmgr /skms kms.digiboy.ir 
+  
   slmgr /ato 
 
 # Link key

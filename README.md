@@ -1,7 +1,7 @@
 # Cách Active Windown
-slmgr /ipk [key]
-slmgr /skms kms.digiboy.ir
-slmgr /ato
+slmgr /ipk [key] .
+slmgr /skms kms.digiboy.ir .
+slmgr /ato .
 
 # Link key
 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys?fbclid=IwAR3kEi4rcNEZKZXmwbySk-qDGhcMDPD0RzbKXVbNfoOVCovb-9Sr1-BrViY
